@@ -1,5 +1,5 @@
-#Original Written By Qaiser
-#Youtube : Tech Qaiser
+#Original Written By wassu
+#Facebook ID :M.Devilp
 #Github : https:github.com/TechQaiser
 
 import zlib,base64
